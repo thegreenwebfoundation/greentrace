@@ -6,8 +6,6 @@
 
 <script>
 import mapboxgl from "mapbox-gl";
-// import { MapboxLayer } from "@deck.gl/mapbox";
-// import { GeoJsonLayer, ArcLayer, ScatterplotLayer } from "@deck.gl/layers";
 
 const INITIAL_VIEW_STATE = {
   latitude: 51.47,

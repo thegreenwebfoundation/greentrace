@@ -26,12 +26,9 @@
     "postinstall": "npm run lint:fix"
   },
   "dependencies": {
-    "@deck.gl/core": "^7.0.0-beta",
-    "@deck.gl/layers": "^7.0.0-beta",
-    "@deck.gl/mapbox": "^7.1.10",
     "@tgwf/greentrace-cli": "0.0.2",
-    "axios": "^0.18.0",
     "mapbox-gl": "~0.53.0",
+    "axios": "^0.18.0",
     "vue": "^2.5.16",
     "vue-electron": "^1.0.6",
     "vue-router": "^3.0.1",
