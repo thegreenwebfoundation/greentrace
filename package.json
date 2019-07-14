@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "author": "Chris Adams <chris@productscience.co.uk>",
   "description": "A graphical UI for tracing web requests. But green.",
-  "license": null,
+  "license": "Apache-2.0",
   "main": "./dist/electron/main.js",
   "scripts": {
     "build": "node .electron-vue/build.js",
