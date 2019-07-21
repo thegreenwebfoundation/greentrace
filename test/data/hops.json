@@ -1,0 +1,223 @@
+[
+  {
+    "range": [
+      3113989632,
+      3113989887
+    ],
+    "country": "DE",
+    "region": "BE",
+    "eu": "1",
+    "timezone": "Europe/Berlin",
+    "city": "Berlin",
+    "ll": [
+      52.5009,
+      13.4356
+    ],
+    "metro": 0,
+    "area": 200
+  },
+  {
+    "range": [
+      1040472064,
+      1040473087
+    ],
+    "country": "",
+    "region": "",
+    "eu": "0",
+    "timezone": "Europe/Vaduz",
+    "city": "",
+    "ll": [
+      47,
+      8
+    ],
+    "metro": 0,
+    "area": 200
+  },
+  {
+    "range": [
+      3249715456,
+      3249715711
+    ],
+    "country": "DE",
+    "region": "",
+    "eu": "1",
+    "timezone": "",
+    "city": "",
+    "ll": [
+      51.2993,
+      9.491
+    ],
+    "metro": 0,
+    "area": 200
+  },
+  {
+    "range": [
+      3093905408,
+      3093906431
+    ],
+    "country": "US",
+    "region": "",
+    "eu": "0",
+    "timezone": "",
+    "city": "",
+    "ll": [
+      37.751,
+      -97.822
+    ],
+    "metro": 0,
+    "area": 1000
+  },
+  {
+    "range": [
+      1211391168,
+      1211391199
+    ],
+    "country": "US",
+    "region": "",
+    "eu": "0",
+    "timezone": "",
+    "city": "",
+    "ll": [
+      37.751,
+      -97.822
+    ],
+    "metro": 0,
+    "area": 1000
+  },
+  {
+    "range": [
+      1211391104,
+      1211391167
+    ],
+    "country": "US",
+    "region": "",
+    "eu": "0",
+    "timezone": "",
+    "city": "",
+    "ll": [
+      37.751,
+      -97.822
+    ],
+    "metro": 0,
+    "area": 1000
+  },
+  {
+    "range": [
+      3093946112,
+      3093946367
+    ],
+    "country": "US",
+    "region": "",
+    "eu": "0",
+    "timezone": "",
+    "city": "",
+    "ll": [
+      37.751,
+      -97.822
+    ],
+    "metro": 0,
+    "area": 1000
+  },
+  {
+    "range": [
+      3093946112,
+      3093946367
+    ],
+    "country": "US",
+    "region": "",
+    "eu": "0",
+    "timezone": "",
+    "city": "",
+    "ll": [
+      37.751,
+      -97.822
+    ],
+    "metro": 0,
+    "area": 1000
+  },
+  {
+    "range": [
+      3093946112,
+      3093946367
+    ],
+    "country": "US",
+    "region": "",
+    "eu": "0",
+    "timezone": "",
+    "city": "",
+    "ll": [
+      37.751,
+      -97.822
+    ],
+    "metro": 0,
+    "area": 1000
+  },
+  {
+    "range": [
+      3093905408,
+      3093906431
+    ],
+    "country": "US",
+    "region": "",
+    "eu": "0",
+    "timezone": "",
+    "city": "",
+    "ll": [
+      37.751,
+      -97.822
+    ],
+    "metro": 0,
+    "area": 1000
+  },
+  {
+    "range": [
+      1093750784,
+      1093752831
+    ],
+    "country": "US",
+    "region": "",
+    "eu": "0",
+    "timezone": "",
+    "city": "",
+    "ll": [
+      37.751,
+      -97.822
+    ],
+    "metro": 0,
+    "area": 1000
+  },
+  {
+    "range": [
+      1109508096,
+      1109516287
+    ],
+    "country": "US",
+    "region": "CA",
+    "eu": "0",
+    "timezone": "America/Los_Angeles",
+    "city": "Brea",
+    "ll": [
+      33.9291,
+      -117.8845
+    ],
+    "metro": 803,
+    "area": 1000
+  },
+  {
+    "range": [
+      1109508096,
+      1109516287
+    ],
+    "country": "US",
+    "region": "CA",
+    "eu": "0",
+    "timezone": "America/Los_Angeles",
+    "city": "Brea",
+    "ll": [
+      33.9291,
+      -117.8845
+    ],
+    "metro": 803,
+    "area": 1000
+  }
+]

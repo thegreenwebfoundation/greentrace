@@ -1,0 +1,220 @@
+{
+  "id": "line-animation",
+  "type": "line",
+  "source": {
+    "type": "geojson",
+    "data": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                9.491,
+                51.2993
+              ],
+              [
+                -97.822,
+                37.751
+              ],
+              [
+                -97.822,
+                37.751
+              ],
+              [
+                -97.822,
+                37.751
+              ],
+              [
+                -97.822,
+                37.751
+              ],
+              [
+                -97.822,
+                37.751
+              ],
+              [
+                -97.822,
+                37.751
+              ],
+              [
+                -122.0748,
+                37.4043
+              ],
+              [
+                -122.0748,
+                37.4043
+              ]
+            ]
+          },
+          "properties": {
+            "83.169.183.66": {
+              "range": [
+                1403625472,
+                1403633663
+              ],
+              "country": "DE",
+              "region": "",
+              "eu": "1",
+              "timezone": "",
+              "city": "",
+              "ll": [
+                9.491,
+                51.2993
+              ],
+              "metro": 0,
+              "area": 200
+            },
+            "72.14.212.140": {
+              "range": [
+                1208930304,
+                1208932351
+              ],
+              "country": "US",
+              "region": "",
+              "eu": "0",
+              "timezone": "",
+              "city": "",
+              "ll": [
+                -97.822,
+                37.751
+              ],
+              "metro": 0,
+              "area": 1000
+            },
+            "108.170.241.140": {
+              "range": [
+                1823129600,
+                1823145983
+              ],
+              "country": "US",
+              "region": "",
+              "eu": "0",
+              "timezone": "",
+              "city": "",
+              "ll": [
+                -97.822,
+                37.751
+              ],
+              "metro": 0,
+              "area": 1000
+            },
+            "209.85.255.230": {
+              "range": [
+                3512066048,
+                3512074239
+              ],
+              "country": "US",
+              "region": "",
+              "eu": "0",
+              "timezone": "",
+              "city": "",
+              "ll": [
+                -97.822,
+                37.751
+              ],
+              "metro": 0,
+              "area": 1000
+            },
+            "108.170.234.11": {
+              "range": [
+                1823129600,
+                1823145983
+              ],
+              "country": "US",
+              "region": "",
+              "eu": "0",
+              "timezone": "",
+              "city": "",
+              "ll": [
+                -97.822,
+                37.751
+              ],
+              "metro": 0,
+              "area": 1000
+            },
+            "72.14.239.244": {
+              "range": [
+                1208936448,
+                1208938495
+              ],
+              "country": "US",
+              "region": "",
+              "eu": "0",
+              "timezone": "",
+              "city": "",
+              "ll": [
+                -97.822,
+                37.751
+              ],
+              "metro": 0,
+              "area": 1000
+            },
+            "108.170.251.193": {
+              "range": [
+                1823129600,
+                1823145983
+              ],
+              "country": "US",
+              "region": "",
+              "eu": "0",
+              "timezone": "",
+              "city": "",
+              "ll": [
+                -97.822,
+                37.751
+              ],
+              "metro": 0,
+              "area": 1000
+            },
+            "216.239.40.57": {
+              "range": [
+                3639552000,
+                3639554047
+              ],
+              "country": "US",
+              "region": "CA",
+              "eu": "0",
+              "timezone": "America/Los_Angeles",
+              "city": "Mountain View",
+              "ll": [
+                -122.0748,
+                37.4043
+              ],
+              "metro": 807,
+              "area": 50
+            },
+            "216.58.210.14": {
+              "range": [
+                3627732992,
+                3627735039
+              ],
+              "country": "US",
+              "region": "CA",
+              "eu": "0",
+              "timezone": "America/Los_Angeles",
+              "city": "Mountain View",
+              "ll": [
+                -122.0748,
+                37.4043
+              ],
+              "metro": 807,
+              "area": 1000
+            }
+          }
+        }
+      ]
+    }
+  },
+  "layout": {
+    "line-cap": "round",
+    "line-join": "round"
+  },
+  "paint": {
+    "line-color": "#ed6498",
+    "line-width": 5,
+    "line-opacity": 0.8
+  }
+}

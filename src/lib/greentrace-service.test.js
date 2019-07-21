@@ -1,6 +1,6 @@
 import { expect } from 'chai';
 
-import PageCheck from "./greentrace.js"
+import PageCheck from "./greentrace-service.js/index.js"
 
 describe("GreenTrace", () => {
   describe("PageCheck", () => {

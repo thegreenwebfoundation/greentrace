@@ -16,7 +16,14 @@ let electronProcess = null
 let manualRestart = false
 let hotMiddleware
 
-function logStats (proc, data) {
+
+require('dotenv').config()
+
+if (!process.env.MapboxAccessToken) {
+  throw new Error("We need a mapbox token to show maps")
+}
+
+function logStats(proc, data) {
   let log = ''
 
   log += chalk.yellow.bold(`┏ ${proc} Process ${new Array((19 - proc.length) + 1).join('-')}`)
