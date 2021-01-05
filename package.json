@@ -29,7 +29,7 @@
     "@tgwf/greentrace-cli": "0.0.2",
     "acorn": "^6.2.0",
     "ajv-keywords": "^3.4.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "lighthouse": "^5.1.0",
     "lighthouse-plugin-greenhouse": "0.0.2",
     "mapbox-gl": "~0.53.0",
